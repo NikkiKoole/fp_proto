@@ -1,0 +1,20 @@
+
+
+
+#ZoomIn, #ZoomOut{
+    position:absolute;
+    z-index:100;
+    left:10px;
+}
+#ZoomIn {
+    top:10px;
+    width:50px;
+    height:45px;
+    background:url(../resources/zoomicons.svg) -50px 0;
+}
+#ZoomOut {
+    top:70px;
+    width:50px;
+    height:45px;
+    background:url(../resources/zoomicons.svg) 0 0;
+}
